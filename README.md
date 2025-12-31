@@ -8,8 +8,7 @@
 
 本项目是基于张洪大佬的优秀开源项目 [HeoWeb](https://github.com/zhheo/HeoWeb) 进行搭建与修改。
 修改与周润发大佬，感谢发哥。
-[Zrf.me Web]
-(https://www.zrf.me) 进行搭建与修改。
+[ZrfWeb](https://www.zrf.me) 进行搭建与修改。
 
 我主要对模板中的文本、图片和链接进行了替换，并将其作为我个人网站 **[啊亮web](https://www.199332.xyz/)** 的线上版本。此开源仓库旨在分享我的配置，并方便自己进行版本管理。
 
