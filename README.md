@@ -46,3 +46,4 @@
 ## 🙏 致谢
 
 *   特别感谢 **[张洪 (Heo)](https://github.com/zhheo)** 大佬提供的优秀项目 **[HeoWeb](https://github.com/zhheo/HeoWeb)**，它为 ZrfWeb 奠定了坚实的基础，感谢您的辛勤付出与开源精神。
+以及周润发大佬**[周润发 (ZRF.ME)](https://github.com/shaoyouvip/ZrfWeb))**
